@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZuberNajam
 - 👀 I’m interested in data analytics
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on data analysis and AI projects
 - 📫 How to reach me - email: zsyednajam@gmail.com
 
