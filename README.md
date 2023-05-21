@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZuberNajam
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on data analysis and AI projects
+- 👀 I’m interested in automation
+- 🌱 I’m currently expanding on my knowledge of Java
+- 💞️ I’m looking to collaborate on automation AI projects
 - 📫 How to reach me - email: zsyednajam@gmail.com
 
 <!---
