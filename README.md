@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZuberNajam
-- 👀 I’m interested in Test Automation
+- 👀 I’m interested in Artificial Intelligence (AI)
 - 🌱 I’m currently expanding on my knowledge of Java and Groovy
-- 💞️ I’m looking to collaborate on automation projects
+- 💞️ I’m looking to collaborate on web development and AI projects
 - 📫 How to reach me - email: zsyednajam@gmail.com
 
 <!---
