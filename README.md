@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZuberNajam
-- 👀 I’m interested in Artificial Intelligence (AI)
-- 🌱 I’m currently expanding on my knowledge of AWS and Java development
-- 💞️ I’m looking to collaborate on web development and AI projects
+- 👀 I’m interested in QA Automation
+- 🌱 I’m currently expanding on my knowledge of AWS and Groovy language scripting
+- 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me - email: zubernajam@gmail.com
 
 <!---
