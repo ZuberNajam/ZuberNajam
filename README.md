@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZuberNajam
 - 👀 I’m interested in QA Automation
-- 🌱 I’m currently expanding on my knowledge of AWS and Groovy language scripting
-- 💞️ I’m looking to collaborate on web development projects
+- 🌱 I’m currently expanding on my knowledge of Azure and C# language scripting
+- 💞️ I’m looking to collaborate on automation projects
 - 📫 How to reach me - email: zubernajam@gmail.com
 
 <!---
